@@ -1,0 +1,149 @@
+=== 게시글 목록 조회 API
+
+==== 1. Curl Request
+include::{snippets}/get-posts/curl-request.adoc[]
+
+==== 2. HTTP Request
+include::{snippets}/get-posts/http-request.adoc[]
+
+==== 3. HTTP Request Headers
+// include::{snippets}/get-posts/request-headers.adoc[]
+
+==== 4. HTTP Request Parameters
+
+===== 1) Path Parameters
+// include::{snippets}/get-posts/path-parameters.adoc[]
+
+===== 2) Query Parameters
+include::{snippets}/get-posts/query-parameters.adoc[]
+
+===== 3) Form Parameters
+// include::{snippets}/get-posts/form-parameters.adoc[]
+
+==== 5. HTTP Request Body
+include::{snippets}/get-posts/request-body.adoc[]
+// include::{snippets}/get-posts/request-fields.adoc[]
+
+==== 6. HTTP Response Body
+include::{snippets}/get-posts/response-body.adoc[]
+include::{snippets}/get-posts/response-fields.adoc[]
+
+=== 게시글 조회 API
+
+==== 1. Curl Request
+include::{snippets}/get-post/curl-request.adoc[]
+
+==== 2. HTTP Request
+include::{snippets}/get-post/http-request.adoc[]
+
+==== 3. HTTP Request Headers
+// include::{snippets}/get-post/request-headers.adoc[]
+
+==== 4. HTTP Request Parameters
+
+===== 1) Path Parameters
+include::{snippets}/get-post/path-parameters.adoc[]
+
+===== 2) Query Parameters
+// include::{snippets}/get-post/query-parameters.adoc[]
+
+===== 3) Form Parameters
+// include::{snippets}/get-post/form-parameters.adoc[]
+
+==== 5. HTTP Request Body
+include::{snippets}/get-post/request-body.adoc[]
+// include::{snippets}/get-post/request-fields.adoc[]
+
+==== 6. HTTP Response Body
+include::{snippets}/get-post/response-body.adoc[]
+include::{snippets}/get-post/response-fields.adoc[]
+
+=== 게시글 생성 API
+
+==== 1. Curl Request
+include::{snippets}/create-posts/curl-request.adoc[]
+
+==== 2. HTTP Request
+include::{snippets}/create-posts/http-request.adoc[]
+
+==== 3. HTTP Request Headers
+include::{snippets}/create-posts/request-headers.adoc[]
+
+==== 4. HTTP Request Parameters
+
+===== 1) Path Parameters
+//include::{snippets}/create-posts/path-parameters.adoc[]
+
+===== 2) Query Parameters
+//include::{snippets}/create-posts/query-parameters.adoc[]
+
+===== 3) Form Parameters
+// include::{snippets}/create-posts/form-parameters.adoc[]
+
+==== 5. HTTP Request Body
+include::{snippets}/create-posts/request-body.adoc[]
+// include::{snippets}/create-posts/request-fields.adoc[]
+
+==== 6. HTTP Response Body
+include::{snippets}/create-posts/response-body.adoc[]
+include::{snippets}/create-posts/response-fields.adoc[]
+
+=== 게시글 업데이트 API
+
+==== 1. Curl Request
+include::{snippets}/update-posts/curl-request.adoc[]
+
+==== 2. HTTP Request
+include::{snippets}/update-posts/http-request.adoc[]
+
+==== 3. HTTP Request Headers
+include::{snippets}/update-posts/request-headers.adoc[]
+
+==== 4. HTTP Request Parameters
+
+===== 1) Path Parameters
+include::{snippets}/update-posts/path-parameters.adoc[]
+
+===== 2) Query Parameters
+// include::{snippets}/update-posts/query-parameters.adoc[]
+
+===== 3) Form Parameters
+// include::{snippets}/update-posts/form-parameters.adoc[]
+
+==== 5. HTTP Request Body
+include::{snippets}/update-posts/request-body.adoc[]
+include::{snippets}/update-posts/request-fields.adoc[]
+
+==== 6. HTTP Response Body
+include::{snippets}/update-posts/response-body.adoc[]
+include::{snippets}/update-posts/response-fields.adoc[]
+
+=== 게시글 삭제 API
+
+==== 1. Curl Request
+include::{snippets}/delete-posts/curl-request.adoc[]
+
+==== 2. HTTP Request
+include::{snippets}/delete-posts/http-request.adoc[]
+
+==== 3. HTTP Request Headers
+include::{snippets}/delete-posts/request-headers.adoc[]
+
+==== 4. HTTP Request Parameters
+
+===== 1) Path Parameters
+include::{snippets}/delete-posts/path-parameters.adoc[]
+
+===== 2) Query Parameters
+// include::{snippets}/delete-posts/query-parameters.adoc[]
+
+===== 3) Form Parameters
+// include::{snippets}/delete-posts/form-parameters.adoc[]
+
+==== 5. HTTP Request Body
+include::{snippets}/delete-posts/request-body.adoc[]
+// include::{snippets}/delete-posts/request-fields.adoc[]
+
+==== 6. HTTP Response Body
+include::{snippets}/delete-posts/response-body.adoc[]
+include::{snippets}/delete-posts/response-fields.adoc[]
